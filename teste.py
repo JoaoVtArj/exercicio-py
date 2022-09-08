@@ -44,4 +44,6 @@ for c in range(1, 21):
         cont += 1
 print(f"Seus {cont} Valores deram {soma}")
 -------------------------------
+
+
 """
